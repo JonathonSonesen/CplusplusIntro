@@ -1,6 +1,4 @@
-//Jonathon Sonesen
-//Assignment 9
-//Sources: None
+
 // A text interface program with menus that will read a library file into to parallel arrays, one with authors and the other with titles. 
 
 #include<iostream>
