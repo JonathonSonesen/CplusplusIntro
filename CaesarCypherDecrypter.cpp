@@ -1,6 +1,4 @@
 //Jonathon Sonesen
-//Assignment 8 Ceasar Cypher Decrypter
-//Sources: Kelly Briles
 //This program will decrypt a input file that is encrypted using the caesar cypher method. 
 
 #include<iostream>
